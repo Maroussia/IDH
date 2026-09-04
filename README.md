@@ -23,6 +23,8 @@ The notebooks will use data from the Project Gutenberg (PG, https://www.gutenber
 └── README.md
 ```
 
+Note that the string "MyName" in the notebook filename should be replaced by each student's name to facilitate the grading.
+
 ## Getting Started
 
 All notebooks are designed to run in [Google Colaboratory](https://colab.research.google.com/), a free, browser-based environment that requires no local installation, just a Google account.
