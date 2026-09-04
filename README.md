@@ -1,6 +1,6 @@
 # Introduction to Digital Humanities (IDH)
 
-This repository contains the course material for **Introduction to Digital Humanities (IDH)**, a first-year, first-semester course in IE University's BA in Humanities.
+This repository contains the course material for the **Introduction to Digital Humanities (IDH)**, a first-year, first-semester course in IE University's BA in Humanities.
 
 ## Course Overview
 
